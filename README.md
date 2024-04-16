@@ -1,6 +1,6 @@
 # calculator_app
 
-A new Flutter project.
+Hesap Makinesi Uygulaması - Calculator App
 
 ## Getting Started
 
